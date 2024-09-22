@@ -13,7 +13,7 @@ Welcome to the Amazon Clone project! This project replicates the look and feel o
 
 ## Live Demo
 
-You can view a live demo of the project here: [Live Demo](link-to-live-demo)
+You can view a live demo of the project here: [Live Demo](https://eaclix.github.io/Amazon-Clone/)
 
 ## Technologies Used
 
